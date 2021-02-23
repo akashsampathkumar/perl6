@@ -1,1 +1,1 @@
-put "hello";
+put "dummy";
